@@ -9,7 +9,7 @@ import streamlit.components.v1 as components
 
 # ------------------ 页面配置 ------------------
 st.set_page_config(
-    page_title="LESS 风险预测平台",
+    page_title="跳跃落地动作风险预测平台",
     layout="wide"
 )
 
