@@ -62,7 +62,7 @@ def recolor_waterfall(fig, pos_color, neg_color):
 # ------------------ 页面标题 ------------------
 st.markdown(
     "<h1 style='text-align: center; color: darkred;'>"
-    "LESS 风险预测平台"
+    "跳跃落地动作风险预测平台"
     "</h1>",
     unsafe_allow_html=True
 )
